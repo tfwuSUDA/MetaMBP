@@ -1,0 +1,1 @@
+python ../main/peptide_test_few_shot.py -w 5 -s 20 -b 20
